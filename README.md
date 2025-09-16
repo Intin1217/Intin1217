@@ -106,6 +106,8 @@ const currentFocus = {
 **새로운 프로젝트와 협업 기회에 항상 열려있습니다**  
 ⭐️ 관심 있는 레포지토리가 있다면 스타를 눌러주세요!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+<a href="https://mail.google.com/mail/?view=cm&to=parkjh001217@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
