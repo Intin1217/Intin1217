@@ -89,7 +89,7 @@ const currentFocus = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parkjh001217@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([mailto:parkjh001217@gmail.com](https://mail.google.com/mail/?view=cm&to=parkjh001217@gmail.com))
 
 [//]: # ([![Portfolio]&#40;https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&#41;]&#40;https://yourportfolio.com&#41;)
 
