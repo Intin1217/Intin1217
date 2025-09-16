@@ -9,7 +9,7 @@
 
 ## 🎯 **Current Focus**
 
-```javascript
+```typescript
 type FocusCategory = "🖥 frontend" | "🎨 styling" | "⚙️ stateAndData" | "🛠 devOps" | "📚 learning";
 
 const currentFocus: Record<FocusCategory, string[]> = {
