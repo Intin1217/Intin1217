@@ -10,13 +10,15 @@
 ## 🎯 **Current Focus**
 
 ```javascript
-const currentFocus = {
-  🖥 frontend: ["Next.js", "React", "TypeScript", "JavaScript"],
-  🎨 styling: ["TailwindCSS", "Styled-Components"],
-  ⚙️ stateAndData: ["Zustand", "React Hook Form", "Socket.io"],
-  🛠 devOps: ["Docker", "Azure"],
-  📚 learning: ["React Query", "GraphQL", "Node.js", "Express", "SQL"]
-}
+type FocusCategory = "🖥 frontend" | "🎨 styling" | "⚙️ stateAndData" | "🛠 devOps" | "📚 learning";
+
+const currentFocus: Record<FocusCategory, string[]> = {
+  "🖥 frontend": ["Next.js", "React", "TypeScript", "JavaScript"],
+  "🎨 styling": ["TailwindCSS", "Styled-Components"],
+  "⚙️ stateAndData": ["Zustand", "React Hook Form", "Socket.io"],
+  "🛠 devOps": ["Docker", "Azure"],
+  "📚 learning": ["React Query", "GraphQL", "Node.js", "Express", "SQL"]
+};
 ```
 
 ## 🚀 **Tech Stack**
