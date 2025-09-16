@@ -60,10 +60,6 @@ const currentFocus = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Intin1217&layout=compact&langs_count=8&theme=tokyonight&bg_color=2D2A2E&text_color=FCFCFA&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Intin1217&theme=dark&background=2D2A2E&hide_border=true" />
-</div>
-
 [//]: # (---)
 
 [//]: # (## 🎨 **Featured Projects**)
