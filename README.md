@@ -1,11 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20PJH%20GitHub!&fontSize=50&fontColor=ffffff" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&speed=200&color=78DCE8&width=450&lines=Hello%2C+I'm+PJH%2C+a+Frontend+Developer;Working+with+Next.js+React+TypeScript;Building+Learning+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&speed=400&color=9b59b6&width=700&center=true&lines=Hello%2C+I'm+PJH+%E2%80%94+a+Frontend+Developer;Working+with+Next.js%2C+React%2C+and+TypeScript;Building%2C+Learning%2C+and+Growing" alt="Typing SVG" width="100%"/>
 </div>
-
-
----
 
 ## 🎯 **Current Focus**
 
