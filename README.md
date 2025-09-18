@@ -23,31 +23,30 @@ const currentFocus: Record<FocusCategory, string[]> = {
 <div align="center">
 
 ### 🖥 **Core Technologies**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://go-skill-icons.vercel.app/api/icons?i=nextjs)
+![React](https://go-skill-icons.vercel.app/api/icons?i=react)
+![TypeScript](https://go-skill-icons.vercel.app/api/icons?i=typescript)
+![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=javascript)
 
 ### 🎨 **Styling**
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![TailwindCSS](https://go-skill-icons.vercel.app/api/icons?i=tailwindcss)
+![Styled Components](https://go-skill-icons.vercel.app/api/icons?i=styledcomponents)
 
 ### ⚙️ **State & Data Handling**
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Zustand](https://go-skill-icons.vercel.app/api/icons?i=zustand)
+![Socket.io](https://go-skill-icons.vercel.app/api/icons?i=socketio)
 
 ### 🛠 **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/microsoft%20azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://go-skill-icons.vercel.app/api/icons?i=docker)
+![Azure](https://go-skill-icons.vercel.app/api/icons?i=azure)
+![Git](https://go-skill-icons.vercel.app/api/icons?i=git)
 
 ### 📚 **Learning**
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![React Query](https://go-skill-icons.vercel.app/api/icons?i=reactquery)
+![GraphQL](https://go-skill-icons.vercel.app/api/icons?i=graphql)
+![Node.js](https://go-skill-icons.vercel.app/api/icons?i=nodejs)
+![Express](https://go-skill-icons.vercel.app/api/icons?i=express)
+![SQL](https://go-skill-icons.vercel.app/api/icons?i=mysql)
 
 </div>
 
