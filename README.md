@@ -56,7 +56,7 @@ const currentFocus: Record<FocusCategory, string[]> = {
 ## 📈 **GitHub Analytics**
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Intin1217&show_icons=true&theme=tokyonight&bg_color=2D2A2E&text_color=FCFCFA&icon_color=78DCE8&hide_border=true&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=intin1217&show_icons=true&theme=tokyonight&bg_color=2D2A2E&text_color=FCFCFA&icon_color=78DCE8&hide_border=true&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Intin1217&layout=compact&langs_count=8&theme=tokyonight&bg_color=2D2A2E&text_color=FCFCFA&hide_border=true" />
   </div>
   <div style="margin-top: 1.5rem;">
