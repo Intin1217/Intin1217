@@ -104,6 +104,6 @@ const currentFocus: Record<FocusCategory, string[]> = {
 <div align="center">
   
 ### 🙏 **Thanks for visiting!**
-**새로운 프로젝트와 협업 기회에 항상 열려있습니다**  
+**편하게 연락주세요!**  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
